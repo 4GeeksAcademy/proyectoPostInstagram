@@ -2,7 +2,8 @@
 width: 400px;
 height: 600px;
 background: white;
-border: solid black
+border: solid black;
+font-family: roboto;
 }
 .post-header{
 display: flex;
@@ -60,6 +61,7 @@ height: 50px;
 .likes{
     margin-left: 10px;
     font-size: 90%;
+
 }
 .coments{
     margin: 0px 20px 10px 10px;
